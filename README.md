@@ -76,7 +76,7 @@ This project simulates how apps like **WhatsApp, Slack, or Discord** work behind
 **Yogesh Shewalkar**  
 📧 [yogeshshewalkar02@gmail.com](mailto:yogeshshewalkar02@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yogesh-shewalkar)  
-🐙 [GitHub](https://github.com/YogeshShewalkar)
+🐙 [GitHub](https://github.com/shewalkar-yogesh)
 
 ---
 
